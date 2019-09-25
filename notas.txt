@@ -1,0 +1,3 @@
+components/ublicaciones/index.js
+No se puede destructurar los reducers en componentDidMount  porque son el estado y puede cambiar
+Pero si se puede destrcturar dentro del render (ponerUsuario)
